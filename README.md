@@ -1,0 +1,2 @@
+# all_is_well
+After watching a RyconRoleplays video, and hearing his request (whilst knowing of a potential solution), I took the liberty of making a simple hackjob mod to lift a feature from MSTExtra (namely the covered well/bucket-equipped well, and the bucket ofc) to neatly and cleanly slide it into Rycons game. Please note, I did not creat this feature, I'm only transplanting it, if the creator wishes me to remove this, I'll happily do so (just as soon as I can find a way to reach out to ChaosVolt!)
