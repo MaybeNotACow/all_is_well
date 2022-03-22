@@ -9,7 +9,8 @@
     "color": "light_gray",
     "move_cost": 2,
     "coverage": 40,
-    "flags": [ "TRANSPARENT", "THIN_OBSTACLE", "MINEABLE" ],
+    "flags": [ "TRANSPARENT", "THIN_OBSTACLE", "MINEABLE", "EASY_DECONSTRUCT" ],
+	"deconstruct": { "ter_set": "t_covered_well", "items": [ { "item": "bucket_log", "count": 1 }, { "item": "cordage_36", "count": [ 1, 6 ] } ] },
     "bash": {
       "str_min": 80,
       "str_max": 300,
