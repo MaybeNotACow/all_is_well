@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "all_is_well",
+    "name": "All is Well",
+    "authors": [ "Brawn" ],
+    "maintainers": [ "Brawn" ],
+    "description": "A simple copy of a useful feature from the wonderful MST Extra mod, I claim no credit for anything beyond this transplant.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  }
+]

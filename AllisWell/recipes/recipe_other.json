@@ -1,0 +1,17 @@
+[
+  {
+    "type": "recipe",
+    "result": "bucket_log",
+    "activity_level": "MODERATE_EXERCISE",
+    "category": "CC_OTHER",
+    "subcategory": "CSC_OTHER_CONTAINERS",
+    "skill_used": "fabrication",
+    "difficulty": 3,
+    "skills_required": [ "survival", 2 ],
+    "time": "30 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CUT", "level": 1 }, { "id": "SAW_W", "level": 1 } ],
+    "proficiencies": [ { "proficiency": "prof_carving", "required": false, "time_multiplier": 3 } ],
+    "components": [ [ [ "log", 1 ] ], [ [ "cordage", 3, "LIST" ] ] ]
+  }
+]
