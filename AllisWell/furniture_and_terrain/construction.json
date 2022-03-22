@@ -11,7 +11,7 @@
       [ [ "bucket_log", 1 ] ],
       [ [ "rope_makeshift_30", 1 ], [ "rope_30", 1 ], [ "vine_30", 1 ] ],
       [ [ "stick", 8 ], [ "2x4", 8 ] ],
-      [ [ "nail", 10 ] ]
+      [ [ "pointy_stick", 4 ] ]
     ],
     "pre_terrain": "t_covered_well",
     "post_terrain": "t_covered_well_bucket"
